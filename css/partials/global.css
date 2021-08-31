@@ -1,0 +1,42 @@
+.text-title{
+    font: normal bold 50px/70px var (--roboto);
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.button{
+    padding: 1rem 3rem;
+    font: normal 500 16px/20px var (--roboto);
+    position: relative;
+    border: 5px solid transparent;
+    border-radius: 7px;
+    margin: 2rem auto;
+}
+.button.primary-button{
+    background-color: #dbe4f0;
+    text-transform: capitalize;
+    
+}
+
+
+/*.button{
+    padding: 1rem 3rem;
+    font: normal 500 16px/20px var (--roboto);
+    position: relative;
+    border: 5px solid transparent;
+    border-radius: 7px;
+    margin: 2rem auto;
+}*/
+
+/*.social-icons a {
+    display: inline;
+    margin-left: 56px;
+    color: black; 
+} */
+/*#myButton{
+    
+    color: black;
+}
+#skills-button{
+    color: black;
+} */
