@@ -56,12 +56,14 @@
 
 
 .site-main #about-area .about-title h2 > span,
-.d-flex .social-Icons span,
+/*.d-flex .social-Icons span,*/
 .site-main #about-area .about-title .paragraph > p {
     margin-left: .2rem;
 }
-.d-flex .social-Icons {
-  margin-right: .2rem;
+.d-flex .social-Icons span {
+  margin-left: .2rem;
+  
+  justify-content: center;
 }
 
 

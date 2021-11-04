@@ -131,7 +131,7 @@
   text-align: center;
 }
 
-#skill-button {
+/*#skill-button {
   color: black;
   font-weight: bold;
   text-decoration: none;
@@ -139,12 +139,13 @@
   justify-content: center;
   opacity: 0.2rem;
   margin-left: 4rem;
-}
+}*/
 
 .d-flex .social-Icons span {
   display: flex;
   margin-left: 2rem;
   color: black;
+  
 }
 
 .social-links {
